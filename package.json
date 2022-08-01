@@ -1,0 +1,16 @@
+{
+	"name": "pembagian-kelas",
+	"version": "1.0.0",
+	"description": "Pembagian kelompok kelas PKN X IPA 7",
+	"main": "index.js",
+	"repository": "https://github.com/hansputera/kelompok-pknxipa7",
+	"author": "Hanif Dwy Putra S <hanifdwyputrasembiring@gmail.com>",
+	"license": "MIT",
+	"type": "module",
+	"devDependencies": {
+		"prettier": "^2.7.1"
+	},
+	"scripts": {
+		"format": "prettier . --write"
+	}
+}
